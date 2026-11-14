@@ -1,0 +1,1230 @@
+[
+ {
+  "source": "DFAT disclosure log, 2025",
+  "request_text": "I seek access to documents held by the Department of Foreign Affairs and Trade (DFAT) concerning the organisation ILGA Asia (also known as ILGA Asia Foundation), based in Bangkok, Thailand, for the period 1 January 2010 to 30 November 2025 (inclusive). Specifically, I request: 1. A listing of each separate instance of DFAT funding or financial support provided to ILGA Asia during the above period, including for each instance: the amount paid, the date(s) of payment, the funding program or line item name, and the purpose or project title. 2. Any documents showing whether DFAT currently considers the funding to be active, completed, or otherwise.",
+  "parsed": {
+   "date_from": "2010-01-01",
+   "date_to": "2025-11-30",
+   "agency": null,
+   "doc_type": null,
+   "topic_terms": [
+    "seek",
+    "acces",
+    "department",
+    "foreign",
+    "affair",
+    "trade",
+    "dfat",
+    "organisation",
+    "ilga",
+    "asia",
+    "also",
+    "known",
+    "ilga",
+    "asia",
+    "foundation",
+    "based",
+    "bangkok",
+    "thailand",
+    "inclusive",
+    "specifically",
+    "request",
+    "list",
+    "each",
+    "separate",
+    "instance",
+    "dfat",
+    "fund",
+    "financial",
+    "support",
+    "provid",
+    "ilga",
+    "asia",
+    "above",
+    "each",
+    "instance",
+    "amount",
+    "paid",
+    "date",
+    "payment",
+    "fund",
+    "program",
+    "line",
+    "item",
+    "name",
+    "purpose",
+    "project",
+    "title",
+    "show",
+    "whether",
+    "dfat",
+    "currently",
+    "consider",
+    "fund",
+    "active",
+    "complet",
+    "otherwise"
+   ],
+   "topic_text": "seek access department foreign affairs trade dfat organisation ilga asia also known ilga asia foundation based bangkok thailand inclusive specifically request listing each separate instance dfat funding financial support provided ilga asia above each instance amount paid date payment funding program line item name purpose project title showing whether dfat currently considers funding active completed otherwise"
+  }
+ },
+ {
+  "source": "DFAT disclosure log, 2025",
+  "request_text": "Documents DFAT or the Australian Embassy in Israel has that are about or otherwise mentioning \"Global Summud Flotilla\" that are dated from September 1 2025 to the present.",
+  "parsed": {
+   "date_from": "2025-09-01",
+   "date_to": "2026-09-30",
+   "agency": null,
+   "doc_type": null,
+   "topic_terms": [
+    "dfat",
+    "australian",
+    "embassy",
+    "israel",
+    "has",
+    "otherwise",
+    "mention",
+    "global",
+    "summud",
+    "flotilla",
+    "september",
+    "present"
+   ],
+   "topic_text": "dfat australian embassy israel has otherwise mentioning global summud flotilla september present"
+  }
+ },
+ {
+  "source": "DFAT disclosure log, 2024",
+  "request_text": "Emails and/or other correspondence between DFAT and ACT ICT Ghana relating to contract management for the Video Surveillance Cameras (CN3879358) contract, since 1 January 2024. The invoice and contract itself for CN3879358.",
+  "parsed": {
+   "date_from": "2024-01-01",
+   "date_to": "2026-09-30",
+   "agency": null,
+   "doc_type": "Email",
+   "topic_terms": [
+    "email",
+    "other",
+    "dfat",
+    "act",
+    "ict",
+    "ghana",
+    "contract",
+    "management",
+    "video",
+    "surveillance",
+    "camera",
+    "cn3879358",
+    "contract",
+    "invoice",
+    "contract",
+    "itself",
+    "cn3879358"
+   ],
+   "topic_text": "emails other dfat act ict ghana contract management video surveillance cameras contract invoice contract itself"
+  }
+ },
+ {
+  "source": "DFAT disclosure log, 2024",
+  "request_text": "All documentation (briefing, emails etc including any invitation) associated with Australian embassy attendance and representation at a King's Cup rowing ceremony held in Germany on 17 October 2024.",
+  "parsed": {
+   "date_from": "2024-10-17",
+   "date_to": "2026-09-30",
+   "agency": null,
+   "doc_type": null,
+   "topic_terms": [
+    "documentation",
+    "brief",
+    "email",
+    "etc",
+    "invitation",
+    "associat",
+    "australian",
+    "embassy",
+    "attendance",
+    "representation",
+    "king",
+    "cup",
+    "rowing",
+    "ceremony",
+    "germany"
+   ],
+   "topic_text": "documentation briefing emails etc invitation associated australian embassy attendance representation king cup rowing ceremony germany"
+  }
+ },
+ {
+  "source": "DFAT disclosure log, 2023",
+  "request_text": "1. All correspondence between DFAT and the Australian Government entities in relation to Former Prime Ministers John Howard, Tony Abbott and Scott Morrison regarding a visit to London for the Alliance for Responsible Citizenship summit. 2. Notes, summaries or records of discussions between the DFAT Secretary and John Howard in relation to the same visit. 3. Notes, summaries or records of discussions between the DFAT Secretary and Tony Abbott in relation to the same visit. 4. Notes, summaries or records of discussions between the DFAT Secretary and Scott Morrison in relation to the same visit. 5. Any submissions sent by DFAT to the Foreign Minister or the Trade Minister regarding the same visit.",
+  "parsed": {
+   "date_from": null,
+   "date_to": null,
+   "agency": null,
+   "doc_type": null,
+   "topic_terms": [
+    "dfat",
+    "australian",
+    "government",
+    "entity",
+    "relation",
+    "former",
+    "prime",
+    "minister",
+    "john",
+    "howard",
+    "tony",
+    "abbott",
+    "scott",
+    "morrison",
+    "visit",
+    "london",
+    "alliance",
+    "responsible",
+    "citizenship",
+    "summit",
+    "note",
+    "summary",
+    "discussion",
+    "dfat",
+    "secretary",
+    "john",
+    "howard",
+    "relation",
+    "same",
+    "visit",
+    "note",
+    "summary",
+    "discussion",
+    "dfat",
+    "secretary",
+    "tony",
+    "abbott",
+    "relation",
+    "same",
+    "visit",
+    "note",
+    "summary",
+    "discussion",
+    "dfat",
+    "secretary",
+    "scott",
+    "morrison",
+    "relation",
+    "same",
+    "visit",
+    "submission",
+    "sent",
+    "dfat",
+    "foreign",
+    "minister",
+    "trade",
+    "minister",
+    "same",
+    "visit"
+   ],
+   "topic_text": "dfat australian government entities relation former prime ministers john howard tony abbott scott morrison visit london alliance responsible citizenship summit notes summaries discussions dfat secretary john howard relation same visit notes summaries discussions dfat secretary tony abbott relation same visit notes summaries discussions dfat secretary scott morrison relation same visit submissions sent dfat foreign minister trade minister same visit"
+  }
+ },
+ {
+  "source": "DFAT disclosure log, 2022",
+  "request_text": "A list of all renovations and works planned for Stoke Lodge, the official residence of the High Commission in London.",
+  "parsed": {
+   "date_from": null,
+   "date_to": null,
+   "agency": null,
+   "doc_type": null,
+   "topic_terms": [
+    "list",
+    "renovation",
+    "work",
+    "plann",
+    "stoke",
+    "lodge",
+    "official",
+    "residence",
+    "high",
+    "commission",
+    "london"
+   ],
+   "topic_text": "list renovations works planned stoke lodge official residence high commission london"
+  }
+ },
+ {
+  "source": "DFAT disclosure log, 2022",
+  "request_text": "Documents, including correspondence, meeting minutes, ministerial briefings, regarding the changing of wording relating to Israel's capital on DFAT's website. Correspondence and directions between the Foreign Minister's office and the department regarding changes to Australia's recognition of Israel's capital.",
+  "parsed": {
+   "date_from": null,
+   "date_to": null,
+   "agency": null,
+   "doc_type": null,
+   "topic_terms": [
+    "meet",
+    "minut",
+    "ministerial",
+    "briefing",
+    "chang",
+    "word",
+    "israel",
+    "capital",
+    "dfat",
+    "website",
+    "direction",
+    "foreign",
+    "minister",
+    "office",
+    "department",
+    "chang",
+    "australia",
+    "recognition",
+    "israel",
+    "capital"
+   ],
+   "topic_text": "meeting minutes ministerial briefings changing wording israel capital dfat website directions foreign minister office department changes australia recognition israel capital"
+  }
+ },
+ {
+  "source": "DFAT disclosure log, 2022",
+  "request_text": "From 1 January 2020 to 14 July 2022: any briefing held by DFAT regarding the NSW Government's Sydney Metro project (in particular involving the Public-Private Partnership, Hong Kong MTR, and the Chinese Government).",
+  "parsed": {
+   "date_from": "2020-01-01",
+   "date_to": "2022-07-14",
+   "agency": null,
+   "doc_type": "Briefing note",
+   "topic_terms": [
+    "brief",
+    "dfat",
+    "nsw",
+    "government",
+    "sydney",
+    "metro",
+    "project",
+    "particular",
+    "involv",
+    "public",
+    "private",
+    "partnership",
+    "hong",
+    "kong",
+    "mtr",
+    "chinese",
+    "government"
+   ],
+   "topic_text": "briefing dfat nsw government sydney metro project particular involving public private partnership hong kong mtr chinese government"
+  }
+ },
+ {
+  "source": "DFAT disclosure log, 2021",
+  "request_text": "The Incoming Secretary Brief (also described as a briefing pack of materials provided to the new Secretary explaining DFAT's structure, roles and responsibilities and an overview of current activities and priorities).",
+  "parsed": {
+   "date_from": null,
+   "date_to": null,
+   "agency": null,
+   "doc_type": "Briefing note",
+   "topic_terms": [
+    "incom",
+    "secretary",
+    "brief",
+    "also",
+    "describ",
+    "brief",
+    "pack",
+    "material",
+    "provid",
+    "new",
+    "secretary",
+    "explain",
+    "dfat",
+    "structure",
+    "role",
+    "responsibility",
+    "overview",
+    "current",
+    "activity",
+    "priority"
+   ],
+   "topic_text": "incoming secretary brief also described briefing pack materials provided new secretary explaining dfat structure roles responsibilities overview current activities priorities"
+  }
+ },
+ {
+  "source": "DFAT disclosure log, 2021",
+  "request_text": "The policies and procedures around the scope of who can access a COVID Vaccine for locally engaged staff employed abroad.",
+  "parsed": {
+   "date_from": null,
+   "date_to": null,
+   "agency": null,
+   "doc_type": null,
+   "topic_terms": [
+    "policy",
+    "procedur",
+    "around",
+    "scope",
+    "who",
+    "can",
+    "acces",
+    "covid",
+    "vaccine",
+    "locally",
+    "engag",
+    "staff",
+    "employ",
+    "abroad"
+   ],
+   "topic_text": "policies procedures around scope who can access covid vaccine locally engaged staff employed abroad"
+  }
+ },
+ {
+  "source": "Right to Know (NT-specific, 2017)",
+  "request_text": "Could you please send through a list of disclosures made by the department in response to non-personal FOI requests in the 2015-2016 financial year. The list I'm after is what you'd call an FOI disclosure log. I had heard that NT public bodies are requested to publish a log like this under the NT Information Act, but I've been unable to find one for this department. If this list is already public, please just send through the link for it.",
+  "parsed": {
+   "date_from": "2015-07-01",
+   "date_to": "2016-06-30",
+   "agency": null,
+   "doc_type": null,
+   "topic_terms": [
+    "could",
+    "you",
+    "please",
+    "send",
+    "through",
+    "list",
+    "disclosur",
+    "made",
+    "department",
+    "response",
+    "non",
+    "personal",
+    "foi",
+    "request",
+    "financial",
+    "year",
+    "list",
+    "after",
+    "what",
+    "you",
+    "call",
+    "foi",
+    "disclosure",
+    "log",
+    "had",
+    "heard",
+    "nt",
+    "public",
+    "bodi",
+    "request",
+    "publish",
+    "log",
+    "like",
+    "under",
+    "nt",
+    "act",
+    "but",
+    "ve",
+    "been",
+    "unable",
+    "find",
+    "one",
+    "department",
+    "if",
+    "list",
+    "already",
+    "public",
+    "please",
+    "just",
+    "send",
+    "through",
+    "link"
+   ],
+   "topic_text": "could you please send through list disclosures made department response non personal foi requests financial year list after what you call foi disclosure log had heard public bodies requested publish log like under act but been unable find one department list already public please just send through link"
+  }
+ },
+ {
+  "source": "https://www.righttoknow.org.au/body/nt_police_fire_and_emergency_services",
+  "request_text": "Suppression of Aircraft Data from Third-Party Flight Tracking Platforms",
+  "parsed": {
+   "date_from": null,
+   "date_to": null,
+   "agency": null,
+   "doc_type": null,
+   "topic_terms": [
+    "suppression",
+    "aircraft",
+    "data",
+    "third",
+    "party",
+    "flight",
+    "track",
+    "platform"
+   ],
+   "topic_text": "suppression aircraft data third party flight tracking platforms"
+  }
+ },
+ {
+  "source": "https://www.righttoknow.org.au/body/nt_police_fire_and_emergency_services",
+  "request_text": "Copy of Police Incident Report: P22145240",
+  "parsed": {
+   "date_from": null,
+   "date_to": null,
+   "agency": null,
+   "doc_type": null,
+   "topic_terms": [
+    "police",
+    "incident",
+    "report",
+    "p22145240"
+   ],
+   "topic_text": "police incident report"
+  }
+ },
+ {
+  "source": "https://www.righttoknow.org.au/body/nt_police_fire_and_emergency_services",
+  "request_text": "Police Incident Report - Theft of Buggy",
+  "parsed": {
+   "date_from": null,
+   "date_to": null,
+   "agency": null,
+   "doc_type": null,
+   "topic_terms": [
+    "police",
+    "incident",
+    "report",
+    "theft",
+    "buggy"
+   ],
+   "topic_text": "police incident report theft buggy"
+  }
+ },
+ {
+  "source": "https://www.righttoknow.org.au/body/nt_police_fire_and_emergency_services",
+  "request_text": "NT police officers charged with offences (2010-present)",
+  "parsed": {
+   "date_from": null,
+   "date_to": null,
+   "agency": "NT Police, Fire and Emergency Services",
+   "doc_type": null,
+   "topic_terms": [
+    "officer",
+    "charg",
+    "offenc",
+    "present"
+   ],
+   "topic_text": "officers charged offences present"
+  }
+ },
+ {
+  "source": "https://www.righttoknow.org.au/body/nt_police_fire_and_emergency_services",
+  "request_text": "Former Commissioner Kershaw and John Lawler",
+  "parsed": {
+   "date_from": null,
+   "date_to": null,
+   "agency": null,
+   "doc_type": null,
+   "topic_terms": [
+    "former",
+    "commissioner",
+    "kershaw",
+    "john",
+    "lawler"
+   ],
+   "topic_text": "former commissioner kershaw john lawler"
+  }
+ },
+ {
+  "source": "https://www.righttoknow.org.au/body/nt_police_fire_and_emergency_services",
+  "request_text": "List of incidents that occured in Coles Complex Alice Springs 2008-2018",
+  "parsed": {
+   "date_from": null,
+   "date_to": null,
+   "agency": null,
+   "doc_type": null,
+   "topic_terms": [
+    "list",
+    "incident",
+    "occur",
+    "cole",
+    "complex",
+    "alice",
+    "spring"
+   ],
+   "topic_text": "list incidents occured coles complex alice springs"
+  }
+ },
+ {
+  "source": "https://www.righttoknow.org.au/body/nt_police_fire_and_emergency_services",
+  "request_text": "Administrative/Informal access Arrangements",
+  "parsed": {
+   "date_from": null,
+   "date_to": null,
+   "agency": null,
+   "doc_type": null,
+   "topic_terms": [
+    "administrative",
+    "informal",
+    "acces",
+    "arrangement"
+   ],
+   "topic_text": "administrative informal access arrangements"
+  }
+ },
+ {
+  "source": "https://www.righttoknow.org.au/body/nt_police_fire_and_emergency_services",
+  "request_text": "Number of emergency response appliances and operational classification/title, purchased during financial years ending 2014, 2015, and 2016",
+  "parsed": {
+   "date_from": null,
+   "date_to": null,
+   "agency": null,
+   "doc_type": null,
+   "topic_terms": [
+    "number",
+    "emergency",
+    "response",
+    "applianc",
+    "operational",
+    "classification",
+    "title",
+    "purchas",
+    "financial",
+    "year",
+    "ending"
+   ],
+   "topic_text": "number emergency response appliances operational classification title purchased financial years ending"
+  }
+ },
+ {
+  "source": "https://www.righttoknow.org.au/body/nt_department_of_the_attorney_general_and_justice",
+  "request_text": "Prisoner day release guidelines",
+  "parsed": {
+   "date_from": null,
+   "date_to": null,
+   "agency": null,
+   "doc_type": null,
+   "topic_terms": [
+    "prisoner",
+    "day",
+    "release",
+    "guidelin"
+   ],
+   "topic_text": "prisoner day release guidelines"
+  }
+ },
+ {
+  "source": "https://www.righttoknow.org.au/body/nt_department_of_the_attorney_general_and_justice",
+  "request_text": "Sentenced to a job program",
+  "parsed": {
+   "date_from": null,
+   "date_to": null,
+   "agency": null,
+   "doc_type": null,
+   "topic_terms": [
+    "sentenc",
+    "job",
+    "program"
+   ],
+   "topic_text": "sentenced job program"
+  }
+ },
+ {
+  "source": "https://www.righttoknow.org.au/body/nt_department_of_the_attorney_general_and_justice",
+  "request_text": "NT Environment Centre Funding",
+  "parsed": {
+   "date_from": null,
+   "date_to": null,
+   "agency": null,
+   "doc_type": null,
+   "topic_terms": [
+    "nt",
+    "environment",
+    "centre",
+    "fund"
+   ],
+   "topic_text": "environment centre funding"
+  }
+ },
+ {
+  "source": "https://www.righttoknow.org.au/body/nt_department_of_the_attorney_general_and_justice",
+  "request_text": "Private use of social media advice provided to employees",
+  "parsed": {
+   "date_from": null,
+   "date_to": null,
+   "agency": null,
+   "doc_type": null,
+   "topic_terms": [
+    "private",
+    "use",
+    "social",
+    "media",
+    "advice",
+    "provid",
+    "employe"
+   ],
+   "topic_text": "private use social media advice provided employees"
+  }
+ },
+ {
+  "source": "https://www.righttoknow.org.au/body/nt_department_of_the_attorney_general_and_justice",
+  "request_text": "List of information requests to the department",
+  "parsed": {
+   "date_from": null,
+   "date_to": null,
+   "agency": null,
+   "doc_type": null,
+   "topic_terms": [
+    "list",
+    "request",
+    "department"
+   ],
+   "topic_text": "list requests department"
+  }
+ },
+ {
+  "source": "https://www.righttoknow.org.au/body/nt_department_of_the_attorney_general_and_justice",
+  "request_text": "Managing alcohol consumption - a review of licensed social clubs in remote indigenous communities in the Northern Territory",
+  "parsed": {
+   "date_from": null,
+   "date_to": null,
+   "agency": null,
+   "doc_type": null,
+   "topic_terms": [
+    "manag",
+    "alcohol",
+    "consumption",
+    "review",
+    "licens",
+    "social",
+    "club",
+    "remote",
+    "indigenou",
+    "community",
+    "northern",
+    "territory"
+   ],
+   "topic_text": "managing alcohol consumption review licensed social clubs remote indigenous communities northern territory"
+  }
+ },
+ {
+  "source": "https://www.righttoknow.org.au/body/nt_department_of_health",
+  "request_text": "Vaccine Safety Surveillance Report for years 2020, 2021 and 2022",
+  "parsed": {
+   "date_from": null,
+   "date_to": null,
+   "agency": null,
+   "doc_type": null,
+   "topic_terms": [
+    "vaccine",
+    "safety",
+    "surveillance",
+    "report",
+    "year"
+   ],
+   "topic_text": "vaccine safety surveillance report years"
+  }
+ },
+ {
+  "source": "https://www.righttoknow.org.au/body/nt_department_of_health",
+  "request_text": "Healthcare Recruitment Information Request",
+  "parsed": {
+   "date_from": null,
+   "date_to": null,
+   "agency": null,
+   "doc_type": null,
+   "topic_terms": [
+    "healthcare",
+    "recruitment",
+    "request"
+   ],
+   "topic_text": "healthcare recruitment request"
+  }
+ },
+ {
+  "source": "https://www.righttoknow.org.au/body/nt_department_of_health",
+  "request_text": "COVID 19 - Procurement of AEONMED Ventilators",
+  "parsed": {
+   "date_from": null,
+   "date_to": null,
+   "agency": null,
+   "doc_type": null,
+   "topic_terms": [
+    "covid",
+    "procurement",
+    "aeonm",
+    "ventilator"
+   ],
+   "topic_text": "covid procurement aeonmed ventilators"
+  }
+ },
+ {
+  "source": "https://www.righttoknow.org.au/body/nt_department_of_health",
+  "request_text": "Inquiry about contact tracing app: QR-code vs Bluetooth beacon",
+  "parsed": {
+   "date_from": null,
+   "date_to": null,
+   "agency": null,
+   "doc_type": null,
+   "topic_terms": [
+    "inquiry",
+    "contact",
+    "trac",
+    "app",
+    "qr",
+    "code",
+    "vs",
+    "bluetooth",
+    "beacon"
+   ],
+   "topic_text": "inquiry contact tracing app code bluetooth beacon"
+  }
+ },
+ {
+  "source": "https://www.righttoknow.org.au/body/nt_department_of_health",
+  "request_text": "2020 Suicide Prevention Grants",
+  "parsed": {
+   "date_from": null,
+   "date_to": null,
+   "agency": null,
+   "doc_type": null,
+   "topic_terms": [
+    "suicide",
+    "prevention",
+    "grant"
+   ],
+   "topic_text": "suicide prevention grants"
+  }
+ },
+ {
+  "source": "https://www.righttoknow.org.au/body/nt_department_of_health",
+  "request_text": "Private use of social media advice provided to employees",
+  "parsed": {
+   "date_from": null,
+   "date_to": null,
+   "agency": null,
+   "doc_type": null,
+   "topic_terms": [
+    "private",
+    "use",
+    "social",
+    "media",
+    "advice",
+    "provid",
+    "employe"
+   ],
+   "topic_text": "private use social media advice provided employees"
+  }
+ },
+ {
+  "source": "https://www.righttoknow.org.au/body/nt_department_of_transport",
+  "request_text": "H Endorsement",
+  "parsed": {
+   "date_from": null,
+   "date_to": null,
+   "agency": null,
+   "doc_type": null,
+   "topic_terms": [
+    "endorsement"
+   ],
+   "topic_text": "endorsement"
+  }
+ },
+ {
+  "source": "https://www.righttoknow.org.au/body/nt_department_of_transport",
+  "request_text": "Answers to H endorsement test",
+  "parsed": {
+   "date_from": null,
+   "date_to": null,
+   "agency": null,
+   "doc_type": null,
+   "topic_terms": [
+    "answer",
+    "endorsement",
+    "test"
+   ],
+   "topic_text": "answers endorsement test"
+  }
+ },
+ {
+  "source": "https://www.righttoknow.org.au/body/nt_department_of_transport",
+  "request_text": "NEVDIS User Guide",
+  "parsed": {
+   "date_from": null,
+   "date_to": null,
+   "agency": null,
+   "doc_type": null,
+   "topic_terms": [
+    "nevdi",
+    "user",
+    "guide"
+   ],
+   "topic_text": "nevdis user guide"
+  }
+ },
+ {
+  "source": "https://www.righttoknow.org.au/body/nt_department_of_transport",
+  "request_text": "\"H\" endorsement - Tests and answers",
+  "parsed": {
+   "date_from": null,
+   "date_to": null,
+   "agency": null,
+   "doc_type": null,
+   "topic_terms": [
+    "endorsement",
+    "test",
+    "answer"
+   ],
+   "topic_text": "endorsement tests answers"
+  }
+ },
+ {
+  "source": "https://www.righttoknow.org.au/body/nt_department_of_transport",
+  "request_text": "Private use of social media advice provided to employees",
+  "parsed": {
+   "date_from": null,
+   "date_to": null,
+   "agency": null,
+   "doc_type": null,
+   "topic_terms": [
+    "private",
+    "use",
+    "social",
+    "media",
+    "advice",
+    "provid",
+    "employe"
+   ],
+   "topic_text": "private use social media advice provided employees"
+  }
+ },
+ {
+  "source": "https://www.righttoknow.org.au/body/nt_department_of_transport",
+  "request_text": "H Indorsement",
+  "parsed": {
+   "date_from": null,
+   "date_to": null,
+   "agency": null,
+   "doc_type": null,
+   "topic_terms": [
+    "indorsement"
+   ],
+   "topic_text": "indorsement"
+  }
+ },
+ {
+  "source": "https://www.righttoknow.org.au/body/nt_department_of_infrastructure_planning_and_logistics",
+  "request_text": "Area cleared for constructing the detention Center on Christmas Island",
+  "parsed": {
+   "date_from": null,
+   "date_to": null,
+   "agency": null,
+   "doc_type": null,
+   "topic_terms": [
+    "area",
+    "clear",
+    "construct",
+    "detention",
+    "center",
+    "christma",
+    "island"
+   ],
+   "topic_text": "area cleared constructing detention center christmas island"
+  }
+ },
+ {
+  "source": "https://www.righttoknow.org.au/body/nt_department_of_infrastructure_planning_and_logistics",
+  "request_text": "NEVDIS User Guide",
+  "parsed": {
+   "date_from": null,
+   "date_to": null,
+   "agency": null,
+   "doc_type": null,
+   "topic_terms": [
+    "nevdi",
+    "user",
+    "guide"
+   ],
+   "topic_text": "nevdis user guide"
+  }
+ },
+ {
+  "source": "https://www.righttoknow.org.au/body/nt_department_of_infrastructure_planning_and_logistics",
+  "request_text": "Incident Response Vehicle, Process & Costs",
+  "parsed": {
+   "date_from": null,
+   "date_to": null,
+   "agency": null,
+   "doc_type": null,
+   "topic_terms": [
+    "incident",
+    "response",
+    "vehicle",
+    "proces",
+    "cost"
+   ],
+   "topic_text": "incident response vehicle process costs"
+  }
+ },
+ {
+  "source": "https://www.righttoknow.org.au/body/nt_department_of_infrastructure_planning_and_logistics",
+  "request_text": "Online hire and reward practice test",
+  "parsed": {
+   "date_from": null,
+   "date_to": null,
+   "agency": null,
+   "doc_type": null,
+   "topic_terms": [
+    "online",
+    "hire",
+    "reward",
+    "practice",
+    "test"
+   ],
+   "topic_text": "online hire reward practice test"
+  }
+ },
+ {
+  "source": "https://www.righttoknow.org.au/body/nt_department_of_infrastructure_planning_and_logistics",
+  "request_text": "Private use of social media advice provided to employees",
+  "parsed": {
+   "date_from": null,
+   "date_to": null,
+   "agency": null,
+   "doc_type": null,
+   "topic_terms": [
+    "private",
+    "use",
+    "social",
+    "media",
+    "advice",
+    "provid",
+    "employe"
+   ],
+   "topic_text": "private use social media advice provided employees"
+  }
+ },
+ {
+  "source": "https://www.righttoknow.org.au/body/nt_families_housing_and_communities",
+  "request_text": "Cost to build housing on Bathurst Island, NT",
+  "parsed": {
+   "date_from": null,
+   "date_to": null,
+   "agency": null,
+   "doc_type": null,
+   "topic_terms": [
+    "cost",
+    "build",
+    "hous",
+    "bathurst",
+    "island",
+    "nt"
+   ],
+   "topic_text": "cost build housing bathurst island"
+  }
+ },
+ {
+  "source": "https://www.righttoknow.org.au/body/nt_families_housing_and_communities",
+  "request_text": "Demographic information on Public Housing Residents",
+  "parsed": {
+   "date_from": null,
+   "date_to": null,
+   "agency": null,
+   "doc_type": null,
+   "topic_terms": [
+    "demographic",
+    "public",
+    "hous",
+    "resident"
+   ],
+   "topic_text": "demographic public housing residents"
+  }
+ },
+ {
+  "source": "https://www.righttoknow.org.au/body/nt_families_housing_and_communities",
+  "request_text": "Processes and procedures ensuring welfare of NT Public Housing Tennants",
+  "parsed": {
+   "date_from": null,
+   "date_to": null,
+   "agency": null,
+   "doc_type": null,
+   "topic_terms": [
+    "process",
+    "procedur",
+    "ensur",
+    "welfare",
+    "nt",
+    "public",
+    "hous",
+    "tennant"
+   ],
+   "topic_text": "processes procedures ensuring welfare public housing tennants"
+  }
+ },
+ {
+  "source": "https://www.righttoknow.org.au/body/nt_families_housing_and_communities",
+  "request_text": "Private use of social media advice provided to employees",
+  "parsed": {
+   "date_from": null,
+   "date_to": null,
+   "agency": null,
+   "doc_type": null,
+   "topic_terms": [
+    "private",
+    "use",
+    "social",
+    "media",
+    "advice",
+    "provid",
+    "employe"
+   ],
+   "topic_text": "private use social media advice provided employees"
+  }
+ },
+ {
+  "source": "https://www.righttoknow.org.au/body/nt_department_of_education",
+  "request_text": "Assessment and Rating Reports for QA2",
+  "parsed": {
+   "date_from": null,
+   "date_to": null,
+   "agency": null,
+   "doc_type": null,
+   "topic_terms": [
+    "assessment",
+    "rating",
+    "report",
+    "qa2"
+   ],
+   "topic_text": "assessment rating reports"
+  }
+ },
+ {
+  "source": "https://www.righttoknow.org.au/body/nt_department_of_education",
+  "request_text": "Platforms for Accessing Government School Data such as NAPLAN Results",
+  "parsed": {
+   "date_from": null,
+   "date_to": null,
+   "agency": null,
+   "doc_type": null,
+   "topic_terms": [
+    "platform",
+    "access",
+    "government",
+    "school",
+    "data",
+    "such",
+    "naplan",
+    "result"
+   ],
+   "topic_text": "platforms accessing government school data such naplan results"
+  }
+ },
+ {
+  "source": "https://www.righttoknow.org.au/body/nt_department_of_education",
+  "request_text": "Private use of social media advice provided to employees",
+  "parsed": {
+   "date_from": null,
+   "date_to": null,
+   "agency": null,
+   "doc_type": null,
+   "topic_terms": [
+    "private",
+    "use",
+    "social",
+    "media",
+    "advice",
+    "provid",
+    "employe"
+   ],
+   "topic_text": "private use social media advice provided employees"
+  }
+ },
+ {
+  "source": "https://www.righttoknow.org.au/body/nt_department_of_education",
+  "request_text": "Corporate Plan and Evaluation Plan",
+  "parsed": {
+   "date_from": null,
+   "date_to": null,
+   "agency": null,
+   "doc_type": null,
+   "topic_terms": [
+    "corporate",
+    "plan",
+    "evaluation",
+    "plan"
+   ],
+   "topic_text": "corporate plan evaluation plan"
+  }
+ },
+ {
+  "source": "https://www.righttoknow.org.au/body/nt_worksafe",
+  "request_text": "reports and information received by worksafe via Red Dirt Mellon Farms",
+  "parsed": {
+   "date_from": null,
+   "date_to": null,
+   "agency": null,
+   "doc_type": null,
+   "topic_terms": [
+    "report",
+    "receiv",
+    "worksafe",
+    "via",
+    "red",
+    "dirt",
+    "mellon",
+    "farm"
+   ],
+   "topic_text": "reports received worksafe via red dirt mellon farms"
+  }
+ },
+ {
+  "source": "https://www.righttoknow.org.au/body/nt_worksafe",
+  "request_text": "Time of Incidents By Construction Worker",
+  "parsed": {
+   "date_from": null,
+   "date_to": null,
+   "agency": null,
+   "doc_type": null,
+   "topic_terms": [
+    "time",
+    "incident",
+    "construction",
+    "worker"
+   ],
+   "topic_text": "time incidents construction worker"
+  }
+ },
+ {
+  "source": "https://www.righttoknow.org.au/body/nt_worksafe",
+  "request_text": "Private use of social media advice provided to employees",
+  "parsed": {
+   "date_from": null,
+   "date_to": null,
+   "agency": null,
+   "doc_type": null,
+   "topic_terms": [
+    "private",
+    "use",
+    "social",
+    "media",
+    "advice",
+    "provid",
+    "employe"
+   ],
+   "topic_text": "private use social media advice provided employees"
+  }
+ },
+ {
+  "source": "https://www.righttoknow.org.au/body/nt_worksafe",
+  "request_text": "Asbestos report on contamination and removal at shop 35 Rapid Creek Milner nt",
+  "parsed": {
+   "date_from": null,
+   "date_to": null,
+   "agency": null,
+   "doc_type": null,
+   "topic_terms": [
+    "asbesto",
+    "report",
+    "contamination",
+    "removal",
+    "shop",
+    "rapid",
+    "creek",
+    "milner",
+    "nt"
+   ],
+   "topic_text": "asbestos report contamination removal shop rapid creek milner"
+  }
+ }
+]

@@ -1,0 +1,51 @@
+{"time": "2026-10-08T06:28:47+00:00", "officer": "Demo Officer", "action": "session_opened", "record_id": null, "detail": "REQ-0001"}
+{"time": "2026-10-08T06:28:47+00:00", "officer": "Demo Officer", "action": "finalise_blocked", "record_id": null, "detail": "48 outstanding"}
+{"time": "2026-10-08T06:28:47+00:00", "officer": "Demo Officer", "action": "record_release_in_full", "record_id": "REC-00131", "detail": "Officer read the full record"}
+{"time": "2026-10-08T06:28:47+00:00", "officer": "Demo Officer", "action": "record_release_in_full", "record_id": "REC-00410", "detail": "Officer read the full record"}
+{"time": "2026-10-08T06:28:47+00:00", "officer": "Demo Officer", "action": "record_release_in_full", "record_id": "REC-00361", "detail": "Officer read the full record"}
+{"time": "2026-10-08T06:28:47+00:00", "officer": "Demo Officer", "action": "record_release_in_full", "record_id": "REC-00459", "detail": "Officer read the full record"}
+{"time": "2026-10-08T06:28:47+00:00", "officer": "Demo Officer", "action": "record_release_in_full", "record_id": "REC-00470", "detail": "Officer read the full record"}
+{"time": "2026-10-08T06:28:47+00:00", "officer": "Demo Officer", "action": "record_release_in_full", "record_id": "REC-00114", "detail": "Officer read the full record"}
+{"time": "2026-10-08T06:28:47+00:00", "officer": "Demo Officer", "action": "record_release_in_full", "record_id": "REC-00370", "detail": "Officer read the full record"}
+{"time": "2026-10-08T06:28:47+00:00", "officer": "Demo Officer", "action": "record_release_in_full", "record_id": "REC-00272", "detail": "Officer read the full record"}
+{"time": "2026-10-08T06:28:47+00:00", "officer": "Demo Officer", "action": "flag_redact", "record_id": "REC-00427", "detail": "Deliberative material: Officers canvassed closing the regional office as one possible option."}
+{"time": "2026-10-08T06:28:47+00:00", "officer": "Demo Officer", "action": "record_release_with_redactions", "record_id": "REC-00427", "detail": "Officer read the full record"}
+{"time": "2026-10-08T06:28:47+00:00", "officer": "Demo Officer", "action": "flag_redact", "record_id": "REC-00458", "detail": "Personal information: Please contact the Department's FOI unit on 08 8999 5511 with any questions."}
+{"time": "2026-10-08T06:28:47+00:00", "officer": "Demo Officer", "action": "record_release_with_redactions", "record_id": "REC-00458", "detail": "Officer read the full record"}
+{"time": "2026-10-08T06:28:47+00:00", "officer": "Demo Officer", "action": "record_release_in_full", "record_id": "REC-00271", "detail": "Officer read the full record"}
+{"time": "2026-10-08T06:28:47+00:00", "officer": "Demo Officer", "action": "record_release_in_full", "record_id": "REC-00391", "detail": "Officer read the full record"}
+{"time": "2026-10-08T06:28:47+00:00", "officer": "Demo Officer", "action": "flag_redact", "record_id": "REC-00292", "detail": "Aboriginal sacred or restricted information: Photos of the deceased community member should be removed from the newsletter ou"}
+{"time": "2026-10-08T06:28:47+00:00", "officer": "Demo Officer", "action": "record_release_with_redactions", "record_id": "REC-00292", "detail": "Officer read the full record"}
+{"time": "2026-10-08T06:28:47+00:00", "officer": "Demo Officer", "action": "record_release_in_full", "record_id": "REC-00258", "detail": "Officer read the full record"}
+{"time": "2026-10-08T06:28:47+00:00", "officer": "Demo Officer", "action": "record_release_in_full", "record_id": "REC-00430", "detail": "Officer read the full record"}
+{"time": "2026-10-08T06:28:47+00:00", "officer": "Demo Officer", "action": "record_release_in_full", "record_id": "REC-00150", "detail": "Officer read the full record"}
+{"time": "2026-10-08T06:28:47+00:00", "officer": "Demo Officer", "action": "flag_redact", "record_id": "REC-00198", "detail": "Legal advice (privilege): The barrister's assessment is that the licence cancellation may not survive revi"}
+{"time": "2026-10-08T06:28:47+00:00", "officer": "Demo Officer", "action": "flag_redact", "record_id": "REC-00198", "detail": "Commercial or business information: Rios Group submitted a pricing breakdown of $952,000 for labour and materials."}
+{"time": "2026-10-08T06:28:47+00:00", "officer": "Demo Officer", "action": "record_release_with_redactions", "record_id": "REC-00198", "detail": "Officer read the full record"}
+{"time": "2026-10-08T06:28:47+00:00", "officer": "Demo Officer", "action": "record_release_in_full", "record_id": "REC-00308", "detail": "Officer read the full record"}
+{"time": "2026-10-08T06:28:47+00:00", "officer": "Demo Officer", "action": "flag_redact", "record_id": "REC-00073", "detail": "Security or law enforcement: Disclosure of the surveillance schedule would prejudice the ongoing operation."}
+{"time": "2026-10-08T06:28:47+00:00", "officer": "Demo Officer", "action": "record_release_with_redactions", "record_id": "REC-00073", "detail": "Officer read the full record"}
+{"time": "2026-10-08T06:28:47+00:00", "officer": "Demo Officer", "action": "record_release_in_full", "record_id": "REC-00307", "detail": "Officer read the full record"}
+{"time": "2026-10-08T06:28:47+00:00", "officer": "Demo Officer", "action": "record_release_in_full", "record_id": "REC-00110", "detail": "Officer read the full record"}
+{"time": "2026-10-08T06:28:47+00:00", "officer": "Demo Officer", "action": "flag_redact", "record_id": "REC-00463", "detail": "Health information about a person: Surgery is scheduled for the client's hip next month."}
+{"time": "2026-10-08T06:28:47+00:00", "officer": "Demo Officer", "action": "record_release_with_redactions", "record_id": "REC-00463", "detail": "Officer read the full record"}
+{"time": "2026-10-08T06:28:47+00:00", "officer": "Demo Officer", "action": "record_release_in_full", "record_id": "REC-00217", "detail": "Officer read the full record"}
+{"time": "2026-10-08T06:28:47+00:00", "officer": "Demo Officer", "action": "flag_redact", "record_id": "REC-00126", "detail": "Security or law enforcement: The informant, Daniel Smith, provided the tip-off on the condition their identit"}
+{"time": "2026-10-08T06:28:47+00:00", "officer": "Demo Officer", "action": "record_release_with_redactions", "record_id": "REC-00126", "detail": "Officer read the full record"}
+{"time": "2026-10-08T06:28:47+00:00", "officer": "Demo Officer", "action": "record_release_in_full", "record_id": "REC-00136", "detail": "Officer read the full record"}
+{"time": "2026-10-08T06:28:47+00:00", "officer": "Demo Officer", "action": "flag_redact", "record_id": "REC-00269", "detail": "Security or law enforcement: The informant, John Macdonald, provided the tip-off on the condition their ident"}
+{"time": "2026-10-08T06:28:47+00:00", "officer": "Demo Officer", "action": "record_release_with_redactions", "record_id": "REC-00269", "detail": "Officer read the full record"}
+{"time": "2026-10-08T06:28:47+00:00", "officer": "Demo Officer", "action": "flag_redact", "record_id": "REC-00244", "detail": "Health information about a person: Mark Moses is undergoing chemotherapy and asked for repairs to be scheduled arou"}
+{"time": "2026-10-08T06:28:47+00:00", "officer": "Demo Officer", "action": "flag_redact", "record_id": "REC-00244", "detail": "Commercial or business information: The schedule of rates shows an emergency call-out unit rate of $158."}
+{"time": "2026-10-08T06:28:47+00:00", "officer": "Demo Officer", "action": "record_release_with_redactions", "record_id": "REC-00244", "detail": "Officer read the full record"}
+{"time": "2026-10-08T06:28:47+00:00", "officer": "Demo Officer", "action": "record_release_in_full", "record_id": "REC-00386", "detail": "Officer read the full record"}
+{"time": "2026-10-08T06:28:47+00:00", "officer": "Demo Officer", "action": "flag_redact", "record_id": "REC-00127", "detail": "Cabinet or Executive Council material: The draft Cabinet submission recommends a $19 million package that has not yet b"}
+{"time": "2026-10-08T06:28:47+00:00", "officer": "Demo Officer", "action": "flag_redact", "record_id": "REC-00127", "detail": "Security or law enforcement: The covert patrol roster for the long weekend is attached."}
+{"time": "2026-10-08T06:28:47+00:00", "officer": "Demo Officer", "action": "record_release_with_redactions", "record_id": "REC-00127", "detail": "Officer read the full record"}
+{"time": "2026-10-08T06:28:47+00:00", "officer": "Demo Officer", "action": "record_release_in_full", "record_id": "REC-00405", "detail": "Officer read the full record"}
+{"time": "2026-10-08T06:28:47+00:00", "officer": "Demo Officer", "action": "flag_redact", "record_id": "REC-00026", "detail": "Commercial or business information: Their insurance premiums and staff wage costs are set out in the bid financials."}
+{"time": "2026-10-08T06:28:47+00:00", "officer": "Demo Officer", "action": "record_release_with_redactions", "record_id": "REC-00026", "detail": "Officer read the full record"}
+{"time": "2026-10-08T06:28:47+00:00", "officer": "Demo Officer", "action": "flag_redact", "record_id": "REC-00002", "detail": "Health information about a person: Joseph Floyd is receiving dialysis three times a week at the Alice Springs renal"}
+{"time": "2026-10-08T06:28:47+00:00", "officer": "Demo Officer", "action": "flag_redact", "record_id": "REC-00002", "detail": "Deliberative material: We are still weighing two options and have not made a recommendation."}
+{"time": "2026-10-08T06:28:47+00:00", "officer": "Demo Officer", "action": "record_release_with_redactions", "record_id": "REC-00002", "detail": "Officer read the full record"}
+{"time": "2026-10-08T06:28:47+00:00", "officer": "Demo Officer", "action": "finalised", "record_id": null, "detail": "32 records"}

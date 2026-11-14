@@ -1,0 +1,125 @@
+{
+  "folds": 4,
+  "best": "+ names 0.4 + vectors x8",
+  "miss_cost": 20,
+  "unmatched_spans": 0,
+  "variants": {
+    "classifier (current)": {
+      "pos": 47,
+      "hit": 8,
+      "neg": 1940,
+      "fp": 0,
+      "recall": 0.17,
+      "false_flag_rate": 0.0,
+      "expected_cost": 788
+    },
+    "+ word vectors x1": {
+      "pos": 47,
+      "hit": 8,
+      "neg": 1940,
+      "fp": 0,
+      "recall": 0.17,
+      "false_flag_rate": 0.0,
+      "expected_cost": 788
+    },
+    "+ word vectors x4": {
+      "pos": 47,
+      "hit": 24,
+      "neg": 1940,
+      "fp": 1,
+      "recall": 0.511,
+      "false_flag_rate": 0.001,
+      "expected_cost": 485
+    },
+    "+ word vectors x8": {
+      "pos": 47,
+      "hit": 26,
+      "neg": 1940,
+      "fp": 1,
+      "recall": 0.553,
+      "false_flag_rate": 0.001,
+      "expected_cost": 447
+    },
+    "+ names 0.3": {
+      "pos": 47,
+      "hit": 8,
+      "neg": 1940,
+      "fp": 0,
+      "recall": 0.17,
+      "false_flag_rate": 0.0,
+      "expected_cost": 788
+    },
+    "+ names 0.3 + vectors x4": {
+      "pos": 47,
+      "hit": 28,
+      "neg": 1940,
+      "fp": 1,
+      "recall": 0.596,
+      "false_flag_rate": 0.001,
+      "expected_cost": 409
+    },
+    "+ names 0.3 + vectors x8": {
+      "pos": 47,
+      "hit": 27,
+      "neg": 1940,
+      "fp": 1,
+      "recall": 0.574,
+      "false_flag_rate": 0.001,
+      "expected_cost": 428
+    },
+    "+ names 0.4": {
+      "pos": 47,
+      "hit": 10,
+      "neg": 1940,
+      "fp": 0,
+      "recall": 0.213,
+      "false_flag_rate": 0.0,
+      "expected_cost": 750
+    },
+    "+ names 0.4 + vectors x4": {
+      "pos": 47,
+      "hit": 28,
+      "neg": 1940,
+      "fp": 1,
+      "recall": 0.596,
+      "false_flag_rate": 0.001,
+      "expected_cost": 409
+    },
+    "+ names 0.4 + vectors x8": {
+      "pos": 47,
+      "hit": 29,
+      "neg": 1940,
+      "fp": 1,
+      "recall": 0.617,
+      "false_flag_rate": 0.001,
+      "expected_cost": 390
+    },
+    "+ names 0.5": {
+      "pos": 47,
+      "hit": 18,
+      "neg": 1940,
+      "fp": 95,
+      "recall": 0.383,
+      "false_flag_rate": 0.049,
+      "expected_cost": 693
+    },
+    "+ names 0.5 + vectors x4": {
+      "pos": 47,
+      "hit": 30,
+      "neg": 1940,
+      "fp": 96,
+      "recall": 0.638,
+      "false_flag_rate": 0.049,
+      "expected_cost": 466
+    },
+    "+ names 0.5 + vectors x8": {
+      "pos": 47,
+      "hit": 31,
+      "neg": 1940,
+      "fp": 96,
+      "recall": 0.66,
+      "false_flag_rate": 0.049,
+      "expected_cost": 447
+    }
+  }
+}

@@ -1,0 +1,1671 @@
+{
+ "retrieval": {
+  "n_requests": 38,
+  "precision": 0.7554334864536866,
+  "recall": 0.9863721804511277,
+  "p_at_10": 0.9912280701754386,
+  "map": 0.985672719597402,
+  "avg_returned": 13.736842105263158,
+  "parse_accuracy": {
+   "dates": 1.0,
+   "agency": 1.0,
+   "doc_type": 1.0
+  },
+  "per_request": [
+   {
+    "request_id": "REQ-0001",
+    "n_truth": 28,
+    "n_returned": 32,
+    "precision": 0.875,
+    "recall": 1.0,
+    "p_at_10": 1.0,
+    "avg_precision": 0.9987684729064039,
+    "parse": {
+     "dates": true,
+     "agency": true,
+     "doc_type": true
+    }
+   },
+   {
+    "request_id": "REQ-0002",
+    "n_truth": 5,
+    "n_returned": 5,
+    "precision": 1.0,
+    "recall": 1.0,
+    "p_at_10": 1.0,
+    "avg_precision": 1.0,
+    "parse": {
+     "dates": true,
+     "agency": true,
+     "doc_type": true
+    }
+   },
+   {
+    "request_id": "REQ-0003",
+    "n_truth": 5,
+    "n_returned": 5,
+    "precision": 1.0,
+    "recall": 1.0,
+    "p_at_10": 1.0,
+    "avg_precision": 1.0,
+    "parse": {
+     "dates": true,
+     "agency": true,
+     "doc_type": true
+    }
+   },
+   {
+    "request_id": "REQ-0004",
+    "n_truth": 6,
+    "n_returned": 6,
+    "precision": 0.6666666666666666,
+    "recall": 0.6666666666666666,
+    "p_at_10": 0.6666666666666666,
+    "avg_precision": 0.6666666666666666,
+    "parse": {
+     "dates": true,
+     "agency": true,
+     "doc_type": true
+    }
+   },
+   {
+    "request_id": "REQ-0005",
+    "n_truth": 32,
+    "n_returned": 32,
+    "precision": 1.0,
+    "recall": 1.0,
+    "p_at_10": 1.0,
+    "avg_precision": 1.0,
+    "parse": {
+     "dates": true,
+     "agency": true,
+     "doc_type": true
+    }
+   },
+   {
+    "request_id": "REQ-0006",
+    "n_truth": 4,
+    "n_returned": 7,
+    "precision": 0.5714285714285714,
+    "recall": 1.0,
+    "p_at_10": 1.0,
+    "avg_precision": 1.0,
+    "parse": {
+     "dates": true,
+     "agency": true,
+     "doc_type": true
+    }
+   },
+   {
+    "request_id": "REQ-0007",
+    "n_truth": 8,
+    "n_returned": 12,
+    "precision": 0.6666666666666666,
+    "recall": 1.0,
+    "p_at_10": 1.0,
+    "avg_precision": 1.0,
+    "parse": {
+     "dates": true,
+     "agency": true,
+     "doc_type": true
+    }
+   },
+   {
+    "request_id": "REQ-0008",
+    "n_truth": 5,
+    "n_returned": 5,
+    "precision": 1.0,
+    "recall": 1.0,
+    "p_at_10": 1.0,
+    "avg_precision": 1.0,
+    "parse": {
+     "dates": true,
+     "agency": true,
+     "doc_type": true
+    }
+   },
+   {
+    "request_id": "REQ-0010",
+    "n_truth": 16,
+    "n_returned": 16,
+    "precision": 1.0,
+    "recall": 1.0,
+    "p_at_10": 1.0,
+    "avg_precision": 1.0,
+    "parse": {
+     "dates": true,
+     "agency": true,
+     "doc_type": true
+    }
+   },
+   {
+    "request_id": "REQ-0011",
+    "n_truth": 5,
+    "n_returned": 9,
+    "precision": 0.5555555555555556,
+    "recall": 1.0,
+    "p_at_10": 1.0,
+    "avg_precision": 1.0,
+    "parse": {
+     "dates": true,
+     "agency": true,
+     "doc_type": true
+    }
+   },
+   {
+    "request_id": "REQ-0012",
+    "n_truth": 3,
+    "n_returned": 7,
+    "precision": 0.42857142857142855,
+    "recall": 1.0,
+    "p_at_10": 1.0,
+    "avg_precision": 1.0,
+    "parse": {
+     "dates": true,
+     "agency": true,
+     "doc_type": true
+    }
+   },
+   {
+    "request_id": "REQ-0013",
+    "n_truth": 12,
+    "n_returned": 16,
+    "precision": 0.75,
+    "recall": 1.0,
+    "p_at_10": 1.0,
+    "avg_precision": 1.0,
+    "parse": {
+     "dates": true,
+     "agency": true,
+     "doc_type": true
+    }
+   },
+   {
+    "request_id": "REQ-0014",
+    "n_truth": 2,
+    "n_returned": 3,
+    "precision": 0.6666666666666666,
+    "recall": 1.0,
+    "p_at_10": 1.0,
+    "avg_precision": 1.0,
+    "parse": {
+     "dates": true,
+     "agency": true,
+     "doc_type": true
+    }
+   },
+   {
+    "request_id": "REQ-0015",
+    "n_truth": 25,
+    "n_returned": 25,
+    "precision": 1.0,
+    "recall": 1.0,
+    "p_at_10": 1.0,
+    "avg_precision": 1.0,
+    "parse": {
+     "dates": true,
+     "agency": true,
+     "doc_type": true
+    }
+   },
+   {
+    "request_id": "REQ-0016",
+    "n_truth": 1,
+    "n_returned": 18,
+    "precision": 0.05555555555555555,
+    "recall": 1.0,
+    "p_at_10": 1.0,
+    "avg_precision": 1.0,
+    "parse": {
+     "dates": true,
+     "agency": true,
+     "doc_type": true
+    }
+   },
+   {
+    "request_id": "REQ-0017",
+    "n_truth": 6,
+    "n_returned": 19,
+    "precision": 0.3157894736842105,
+    "recall": 1.0,
+    "p_at_10": 1.0,
+    "avg_precision": 1.0,
+    "parse": {
+     "dates": true,
+     "agency": true,
+     "doc_type": true
+    }
+   },
+   {
+    "request_id": "REQ-0018",
+    "n_truth": 5,
+    "n_returned": 5,
+    "precision": 1.0,
+    "recall": 1.0,
+    "p_at_10": 1.0,
+    "avg_precision": 1.0,
+    "parse": {
+     "dates": true,
+     "agency": true,
+     "doc_type": true
+    }
+   },
+   {
+    "request_id": "REQ-0019",
+    "n_truth": 6,
+    "n_returned": 10,
+    "precision": 0.6,
+    "recall": 1.0,
+    "p_at_10": 1.0,
+    "avg_precision": 0.9761904761904762,
+    "parse": {
+     "dates": true,
+     "agency": true,
+     "doc_type": true
+    }
+   },
+   {
+    "request_id": "REQ-0020",
+    "n_truth": 14,
+    "n_returned": 12,
+    "precision": 1.0,
+    "recall": 0.8571428571428571,
+    "p_at_10": 1.0,
+    "avg_precision": 0.8571428571428571,
+    "parse": {
+     "dates": true,
+     "agency": true,
+     "doc_type": true
+    }
+   },
+   {
+    "request_id": "REQ-0021",
+    "n_truth": 28,
+    "n_returned": 31,
+    "precision": 0.9032258064516129,
+    "recall": 1.0,
+    "p_at_10": 1.0,
+    "avg_precision": 1.0,
+    "parse": {
+     "dates": true,
+     "agency": true,
+     "doc_type": true
+    }
+   },
+   {
+    "request_id": "REQ-0022",
+    "n_truth": 4,
+    "n_returned": 18,
+    "precision": 0.2222222222222222,
+    "recall": 1.0,
+    "p_at_10": 1.0,
+    "avg_precision": 1.0,
+    "parse": {
+     "dates": true,
+     "agency": true,
+     "doc_type": true
+    }
+   },
+   {
+    "request_id": "REQ-0023",
+    "n_truth": 5,
+    "n_returned": 6,
+    "precision": 0.8333333333333334,
+    "recall": 1.0,
+    "p_at_10": 1.0,
+    "avg_precision": 1.0,
+    "parse": {
+     "dates": true,
+     "agency": true,
+     "doc_type": true
+    }
+   },
+   {
+    "request_id": "REQ-0024",
+    "n_truth": 6,
+    "n_returned": 7,
+    "precision": 0.8571428571428571,
+    "recall": 1.0,
+    "p_at_10": 1.0,
+    "avg_precision": 1.0,
+    "parse": {
+     "dates": true,
+     "agency": true,
+     "doc_type": true
+    }
+   },
+   {
+    "request_id": "REQ-0025",
+    "n_truth": 24,
+    "n_returned": 23,
+    "precision": 1.0,
+    "recall": 0.9583333333333334,
+    "p_at_10": 1.0,
+    "avg_precision": 0.9583333333333334,
+    "parse": {
+     "dates": true,
+     "agency": true,
+     "doc_type": true
+    }
+   },
+   {
+    "request_id": "REQ-0026",
+    "n_truth": 25,
+    "n_returned": 30,
+    "precision": 0.8333333333333334,
+    "recall": 1.0,
+    "p_at_10": 1.0,
+    "avg_precision": 0.9984615384615384,
+    "parse": {
+     "dates": true,
+     "agency": true,
+     "doc_type": true
+    }
+   },
+   {
+    "request_id": "REQ-0027",
+    "n_truth": 7,
+    "n_returned": 27,
+    "precision": 0.25925925925925924,
+    "recall": 1.0,
+    "p_at_10": 1.0,
+    "avg_precision": 1.0,
+    "parse": {
+     "dates": true,
+     "agency": true,
+     "doc_type": true
+    }
+   },
+   {
+    "request_id": "REQ-0028",
+    "n_truth": 14,
+    "n_returned": 14,
+    "precision": 1.0,
+    "recall": 1.0,
+    "p_at_10": 1.0,
+    "avg_precision": 1.0,
+    "parse": {
+     "dates": true,
+     "agency": true,
+     "doc_type": true
+    }
+   },
+   {
+    "request_id": "REQ-0029",
+    "n_truth": 4,
+    "n_returned": 5,
+    "precision": 0.8,
+    "recall": 1.0,
+    "p_at_10": 1.0,
+    "avg_precision": 1.0,
+    "parse": {
+     "dates": true,
+     "agency": true,
+     "doc_type": true
+    }
+   },
+   {
+    "request_id": "REQ-0030",
+    "n_truth": 18,
+    "n_returned": 18,
+    "precision": 1.0,
+    "recall": 1.0,
+    "p_at_10": 1.0,
+    "avg_precision": 1.0,
+    "parse": {
+     "dates": true,
+     "agency": true,
+     "doc_type": true
+    }
+   },
+   {
+    "request_id": "REQ-0031",
+    "n_truth": 13,
+    "n_returned": 17,
+    "precision": 0.7647058823529411,
+    "recall": 1.0,
+    "p_at_10": 1.0,
+    "avg_precision": 1.0,
+    "parse": {
+     "dates": true,
+     "agency": true,
+     "doc_type": true
+    }
+   },
+   {
+    "request_id": "REQ-0032",
+    "n_truth": 4,
+    "n_returned": 6,
+    "precision": 0.6666666666666666,
+    "recall": 1.0,
+    "p_at_10": 1.0,
+    "avg_precision": 1.0,
+    "parse": {
+     "dates": true,
+     "agency": true,
+     "doc_type": true
+    }
+   },
+   {
+    "request_id": "REQ-0033",
+    "n_truth": 9,
+    "n_returned": 21,
+    "precision": 0.42857142857142855,
+    "recall": 1.0,
+    "p_at_10": 1.0,
+    "avg_precision": 1.0,
+    "parse": {
+     "dates": true,
+     "agency": true,
+     "doc_type": true
+    }
+   },
+   {
+    "request_id": "REQ-0034",
+    "n_truth": 7,
+    "n_returned": 7,
+    "precision": 1.0,
+    "recall": 1.0,
+    "p_at_10": 1.0,
+    "avg_precision": 1.0,
+    "parse": {
+     "dates": true,
+     "agency": true,
+     "doc_type": true
+    }
+   },
+   {
+    "request_id": "REQ-0035",
+    "n_truth": 7,
+    "n_returned": 7,
+    "precision": 1.0,
+    "recall": 1.0,
+    "p_at_10": 1.0,
+    "avg_precision": 1.0,
+    "parse": {
+     "dates": true,
+     "agency": true,
+     "doc_type": true
+    }
+   },
+   {
+    "request_id": "REQ-0037",
+    "n_truth": 3,
+    "n_returned": 9,
+    "precision": 0.3333333333333333,
+    "recall": 1.0,
+    "p_at_10": 1.0,
+    "avg_precision": 1.0,
+    "parse": {
+     "dates": true,
+     "agency": true,
+     "doc_type": true
+    }
+   },
+   {
+    "request_id": "REQ-0038",
+    "n_truth": 7,
+    "n_returned": 9,
+    "precision": 0.7777777777777778,
+    "recall": 1.0,
+    "p_at_10": 1.0,
+    "avg_precision": 1.0,
+    "parse": {
+     "dates": true,
+     "agency": true,
+     "doc_type": true
+    }
+   },
+   {
+    "request_id": "REQ-0039",
+    "n_truth": 7,
+    "n_returned": 8,
+    "precision": 0.875,
+    "recall": 1.0,
+    "p_at_10": 1.0,
+    "avg_precision": 1.0,
+    "parse": {
+     "dates": true,
+     "agency": true,
+     "doc_type": true
+    }
+   },
+   {
+    "request_id": "REQ-0040",
+    "n_truth": 15,
+    "n_returned": 15,
+    "precision": 1.0,
+    "recall": 1.0,
+    "p_at_10": 1.0,
+    "avg_precision": 1.0,
+    "parse": {
+     "dates": true,
+     "agency": true,
+     "doc_type": true
+    }
+   }
+  ]
+ },
+ "sensitivity": {
+  "dev": {
+   "sensitive_sentences": 184,
+   "caught": 184,
+   "missed": 0,
+   "recall": 1.0,
+   "flags_routed": 242,
+   "false_flags": 54,
+   "precision": 0.7768595041322314,
+   "record_recall": 1.0,
+   "category_accuracy_when_caught": 1.0,
+   "per_category_recall": {
+    "Cabinet or Executive Council material": 1.0,
+    "Security or law enforcement": 1.0,
+    "Legal advice (privilege)": 1.0,
+    "Deliberative material": 1.0,
+    "Aboriginal sacred or restricted information": 1.0,
+    "Health information about a person": 1.0,
+    "Personal information": 1.0,
+    "Commercial or business information": 1.0
+   }
+  },
+  "test": {
+   "sensitive_sentences": 73,
+   "caught": 63,
+   "missed": 10,
+   "recall": 0.863013698630137,
+   "flags_routed": 95,
+   "false_flags": 20,
+   "precision": 0.7894736842105263,
+   "record_recall": 0.9016393442622951,
+   "category_accuracy_when_caught": 0.6984126984126984,
+   "per_category_recall": {
+    "Cabinet or Executive Council material": 1.0,
+    "Security or law enforcement": 0.727,
+    "Legal advice (privilege)": 0.545,
+    "Deliberative material": 1.0,
+    "Aboriginal sacred or restricted information": 1.0,
+    "Health information about a person": 0.8,
+    "Personal information": 1.0,
+    "Commercial or business information": 1.0
+   },
+   "missed_items": [
+    {
+     "record_id": "REC-00074",
+     "category": "s46_law_enforcement",
+     "text": "The lock combination for the evidence room is recorded on page two."
+    },
+    {
+     "record_id": "REC-00120",
+     "category": "s49d_legal_privilege",
+     "text": "Advice received from external solicitors on the lease dispute is summarised for the executive."
+    },
+    {
+     "record_id": "REC-00314",
+     "category": "s49d_legal_privilege",
+     "text": "Our in-house legal team considers the contractor would win if the matter went to court."
+    },
+    {
+     "record_id": "REC-00372",
+     "category": "s49d_legal_privilege",
+     "text": "Our in-house legal team considers the contractor would win if the matter went to court."
+    },
+    {
+     "record_id": "REC-00401",
+     "category": "s49d_legal_privilege",
+     "text": "Our in-house legal team considers the contractor would win if the matter went to court."
+    },
+    {
+     "record_id": "REC-00405",
+     "category": "s49d_legal_privilege",
+     "text": "Advice received from external solicitors on the lease dispute is summarised for the executive."
+    },
+    {
+     "record_id": "REC-00405",
+     "category": "s56_health",
+     "text": "Jeffrey Davis has been attending the drug and alcohol counselling service weekly."
+    },
+    {
+     "record_id": "REC-00442",
+     "category": "s56_health",
+     "text": "David Soto has been attending the drug and alcohol counselling service weekly."
+    },
+    {
+     "record_id": "REC-00458",
+     "category": "s46_law_enforcement",
+     "text": "The lock combination for the evidence room is recorded on page two."
+    },
+    {
+     "record_id": "REC-00464",
+     "category": "s46_law_enforcement",
+     "text": "The lock combination for the evidence room is recorded on page two."
+    }
+   ]
+  },
+  "all": {
+   "sensitive_sentences": 257,
+   "caught": 247,
+   "missed": 10,
+   "recall": 0.9610894941634242,
+   "flags_routed": 337,
+   "false_flags": 74,
+   "precision": 0.7804154302670623,
+   "record_recall": 0.9714285714285714,
+   "category_accuracy_when_caught": 0.9230769230769231,
+   "per_category_recall": {
+    "Cabinet or Executive Council material": 1.0,
+    "Security or law enforcement": 0.923,
+    "Legal advice (privilege)": 0.844,
+    "Deliberative material": 1.0,
+    "Aboriginal sacred or restricted information": 1.0,
+    "Health information about a person": 0.933,
+    "Personal information": 1.0,
+    "Commercial or business information": 1.0
+   }
+  }
+ },
+ "settings": {
+  "threshold": 0.5,
+  "high_harm_floor": 0.25,
+  "classifier_training_sentences": 2196,
+  "miss_cost": 20,
+  "review_cost": 1
+ },
+ "sweep_test": [
+  {
+   "floor": true,
+   "threshold": 0.05,
+   "caught": 73,
+   "missed": 0,
+   "recall": 1.0,
+   "flags": 234,
+   "false_flags": 109,
+   "precision": 0.534,
+   "expected_cost": 234
+  },
+  {
+   "floor": true,
+   "threshold": 0.1,
+   "caught": 73,
+   "missed": 0,
+   "recall": 1.0,
+   "flags": 211,
+   "false_flags": 91,
+   "precision": 0.569,
+   "expected_cost": 211
+  },
+  {
+   "floor": true,
+   "threshold": 0.15,
+   "caught": 73,
+   "missed": 0,
+   "recall": 1.0,
+   "flags": 196,
+   "false_flags": 88,
+   "precision": 0.551,
+   "expected_cost": 196
+  },
+  {
+   "floor": true,
+   "threshold": 0.2,
+   "caught": 71,
+   "missed": 2,
+   "recall": 0.973,
+   "flags": 184,
+   "false_flags": 88,
+   "precision": 0.522,
+   "expected_cost": 224
+  },
+  {
+   "floor": true,
+   "threshold": 0.25,
+   "caught": 71,
+   "missed": 2,
+   "recall": 0.973,
+   "flags": 179,
+   "false_flags": 88,
+   "precision": 0.508,
+   "expected_cost": 219
+  },
+  {
+   "floor": true,
+   "threshold": 0.3,
+   "caught": 71,
+   "missed": 2,
+   "recall": 0.973,
+   "flags": 179,
+   "false_flags": 88,
+   "precision": 0.508,
+   "expected_cost": 219
+  },
+  {
+   "floor": true,
+   "threshold": 0.35,
+   "caught": 71,
+   "missed": 2,
+   "recall": 0.973,
+   "flags": 176,
+   "false_flags": 88,
+   "precision": 0.5,
+   "expected_cost": 216
+  },
+  {
+   "floor": true,
+   "threshold": 0.4,
+   "caught": 68,
+   "missed": 5,
+   "recall": 0.932,
+   "flags": 159,
+   "false_flags": 75,
+   "precision": 0.528,
+   "expected_cost": 259
+  },
+  {
+   "floor": true,
+   "threshold": 0.45,
+   "caught": 66,
+   "missed": 7,
+   "recall": 0.904,
+   "flags": 98,
+   "false_flags": 20,
+   "precision": 0.796,
+   "expected_cost": 238
+  },
+  {
+   "floor": true,
+   "threshold": 0.5,
+   "caught": 63,
+   "missed": 10,
+   "recall": 0.863,
+   "flags": 95,
+   "false_flags": 20,
+   "precision": 0.789,
+   "expected_cost": 295
+  },
+  {
+   "floor": true,
+   "threshold": 0.55,
+   "caught": 63,
+   "missed": 10,
+   "recall": 0.863,
+   "flags": 93,
+   "false_flags": 19,
+   "precision": 0.796,
+   "expected_cost": 293
+  },
+  {
+   "floor": true,
+   "threshold": 0.6,
+   "caught": 62,
+   "missed": 11,
+   "recall": 0.849,
+   "flags": 75,
+   "false_flags": 4,
+   "precision": 0.947,
+   "expected_cost": 295
+  },
+  {
+   "floor": true,
+   "threshold": 0.65,
+   "caught": 61,
+   "missed": 12,
+   "recall": 0.836,
+   "flags": 74,
+   "false_flags": 4,
+   "precision": 0.946,
+   "expected_cost": 314
+  },
+  {
+   "floor": true,
+   "threshold": 0.7,
+   "caught": 60,
+   "missed": 13,
+   "recall": 0.822,
+   "flags": 73,
+   "false_flags": 4,
+   "precision": 0.945,
+   "expected_cost": 333
+  },
+  {
+   "floor": true,
+   "threshold": 0.75,
+   "caught": 57,
+   "missed": 16,
+   "recall": 0.781,
+   "flags": 70,
+   "false_flags": 4,
+   "precision": 0.943,
+   "expected_cost": 390
+  },
+  {
+   "floor": true,
+   "threshold": 0.8,
+   "caught": 49,
+   "missed": 24,
+   "recall": 0.671,
+   "flags": 62,
+   "false_flags": 4,
+   "precision": 0.935,
+   "expected_cost": 542
+  },
+  {
+   "floor": true,
+   "threshold": 0.85,
+   "caught": 49,
+   "missed": 24,
+   "recall": 0.671,
+   "flags": 62,
+   "false_flags": 4,
+   "precision": 0.935,
+   "expected_cost": 542
+  },
+  {
+   "floor": true,
+   "threshold": 0.9,
+   "caught": 43,
+   "missed": 30,
+   "recall": 0.589,
+   "flags": 56,
+   "false_flags": 4,
+   "precision": 0.929,
+   "expected_cost": 656
+  },
+  {
+   "floor": true,
+   "threshold": 0.95,
+   "caught": 43,
+   "missed": 30,
+   "recall": 0.589,
+   "flags": 54,
+   "false_flags": 4,
+   "precision": 0.926,
+   "expected_cost": 654
+  },
+  {
+   "floor": false,
+   "threshold": 0.05,
+   "caught": 73,
+   "missed": 0,
+   "recall": 1.0,
+   "flags": 234,
+   "false_flags": 109,
+   "precision": 0.534,
+   "expected_cost": 234
+  },
+  {
+   "floor": false,
+   "threshold": 0.1,
+   "caught": 73,
+   "missed": 0,
+   "recall": 1.0,
+   "flags": 211,
+   "false_flags": 91,
+   "precision": 0.569,
+   "expected_cost": 211
+  },
+  {
+   "floor": false,
+   "threshold": 0.15,
+   "caught": 73,
+   "missed": 0,
+   "recall": 1.0,
+   "flags": 196,
+   "false_flags": 88,
+   "precision": 0.551,
+   "expected_cost": 196
+  },
+  {
+   "floor": false,
+   "threshold": 0.2,
+   "caught": 71,
+   "missed": 2,
+   "recall": 0.973,
+   "flags": 184,
+   "false_flags": 88,
+   "precision": 0.522,
+   "expected_cost": 224
+  },
+  {
+   "floor": false,
+   "threshold": 0.25,
+   "caught": 71,
+   "missed": 2,
+   "recall": 0.973,
+   "flags": 179,
+   "false_flags": 88,
+   "precision": 0.508,
+   "expected_cost": 219
+  },
+  {
+   "floor": false,
+   "threshold": 0.3,
+   "caught": 70,
+   "missed": 3,
+   "recall": 0.959,
+   "flags": 175,
+   "false_flags": 88,
+   "precision": 0.497,
+   "expected_cost": 235
+  },
+  {
+   "floor": false,
+   "threshold": 0.35,
+   "caught": 70,
+   "missed": 3,
+   "recall": 0.959,
+   "flags": 169,
+   "false_flags": 88,
+   "precision": 0.479,
+   "expected_cost": 229
+  },
+  {
+   "floor": false,
+   "threshold": 0.4,
+   "caught": 67,
+   "missed": 6,
+   "recall": 0.918,
+   "flags": 152,
+   "false_flags": 75,
+   "precision": 0.507,
+   "expected_cost": 272
+  },
+  {
+   "floor": false,
+   "threshold": 0.45,
+   "caught": 62,
+   "missed": 11,
+   "recall": 0.849,
+   "flags": 89,
+   "false_flags": 20,
+   "precision": 0.775,
+   "expected_cost": 309
+  },
+  {
+   "floor": false,
+   "threshold": 0.5,
+   "caught": 51,
+   "missed": 22,
+   "recall": 0.699,
+   "flags": 76,
+   "false_flags": 18,
+   "precision": 0.763,
+   "expected_cost": 516
+  },
+  {
+   "floor": false,
+   "threshold": 0.55,
+   "caught": 50,
+   "missed": 23,
+   "recall": 0.685,
+   "flags": 73,
+   "false_flags": 16,
+   "precision": 0.781,
+   "expected_cost": 533
+  },
+  {
+   "floor": false,
+   "threshold": 0.6,
+   "caught": 48,
+   "missed": 25,
+   "recall": 0.658,
+   "flags": 51,
+   "false_flags": 1,
+   "precision": 0.98,
+   "expected_cost": 551
+  },
+  {
+   "floor": false,
+   "threshold": 0.65,
+   "caught": 47,
+   "missed": 26,
+   "recall": 0.644,
+   "flags": 50,
+   "false_flags": 1,
+   "precision": 0.98,
+   "expected_cost": 570
+  },
+  {
+   "floor": false,
+   "threshold": 0.7,
+   "caught": 41,
+   "missed": 32,
+   "recall": 0.562,
+   "flags": 44,
+   "false_flags": 1,
+   "precision": 0.977,
+   "expected_cost": 684
+  },
+  {
+   "floor": false,
+   "threshold": 0.75,
+   "caught": 38,
+   "missed": 35,
+   "recall": 0.521,
+   "flags": 41,
+   "false_flags": 1,
+   "precision": 0.976,
+   "expected_cost": 741
+  },
+  {
+   "floor": false,
+   "threshold": 0.8,
+   "caught": 26,
+   "missed": 47,
+   "recall": 0.356,
+   "flags": 29,
+   "false_flags": 1,
+   "precision": 0.966,
+   "expected_cost": 969
+  },
+  {
+   "floor": false,
+   "threshold": 0.85,
+   "caught": 23,
+   "missed": 50,
+   "recall": 0.315,
+   "flags": 26,
+   "false_flags": 1,
+   "precision": 0.962,
+   "expected_cost": 1026
+  },
+  {
+   "floor": false,
+   "threshold": 0.9,
+   "caught": 11,
+   "missed": 62,
+   "recall": 0.151,
+   "flags": 14,
+   "false_flags": 1,
+   "precision": 0.929,
+   "expected_cost": 1254
+  },
+  {
+   "floor": false,
+   "threshold": 0.95,
+   "caught": 9,
+   "missed": 64,
+   "recall": 0.123,
+   "flags": 10,
+   "false_flags": 1,
+   "precision": 0.9,
+   "expected_cost": 1290
+  }
+ ],
+ "lowest_cost_threshold_test": {
+  "floor": true,
+  "threshold": 0.15,
+  "caught": 73,
+  "missed": 0,
+  "recall": 1.0,
+  "flags": 196,
+  "false_flags": 88,
+  "precision": 0.551,
+  "expected_cost": 196
+ },
+ "real_email": [
+  {
+   "split": "dev",
+   "packs": [],
+   "threshold": 0.2,
+   "sensitive_caught": 18,
+   "sensitive_total": 19,
+   "false_alarms": 21,
+   "clean_total": 21,
+   "recall": 0.947,
+   "flags_per_email": 4.2,
+   "category_hits": {
+    "s56_privacy": "8/8",
+    "s57_commercial": "2/11",
+    "s52_deliberative": "1/2",
+    "s49d_legal_privilege": "0/2"
+   }
+  },
+  {
+   "split": "dev",
+   "packs": [],
+   "threshold": 0.3,
+   "sensitive_caught": 17,
+   "sensitive_total": 19,
+   "false_alarms": 19,
+   "clean_total": 21,
+   "recall": 0.895,
+   "flags_per_email": 3.33,
+   "category_hits": {
+    "s56_privacy": "8/8",
+    "s57_commercial": "2/11",
+    "s52_deliberative": "1/2",
+    "s49d_legal_privilege": "0/2"
+   }
+  },
+  {
+   "split": "dev",
+   "packs": [],
+   "threshold": 0.5,
+   "sensitive_caught": 13,
+   "sensitive_total": 19,
+   "false_alarms": 7,
+   "clean_total": 21,
+   "recall": 0.684,
+   "flags_per_email": 0.8,
+   "category_hits": {
+    "s56_privacy": "4/8",
+    "s57_commercial": "1/11",
+    "s52_deliberative": "0/2",
+    "s49d_legal_privilege": "0/2"
+   }
+  },
+  {
+   "split": "dev",
+   "packs": [],
+   "threshold": 0.7,
+   "sensitive_caught": 6,
+   "sensitive_total": 19,
+   "false_alarms": 4,
+   "clean_total": 21,
+   "recall": 0.316,
+   "flags_per_email": 0.3,
+   "category_hits": {
+    "s56_privacy": "0/8",
+    "s57_commercial": "1/11",
+    "s52_deliberative": "0/2",
+    "s49d_legal_privilege": "0/2"
+   }
+  },
+  {
+   "split": "dev",
+   "packs": [
+    "correspondence"
+   ],
+   "threshold": 0.2,
+   "sensitive_caught": 19,
+   "sensitive_total": 19,
+   "false_alarms": 21,
+   "clean_total": 21,
+   "recall": 1.0,
+   "flags_per_email": 4.88,
+   "category_hits": {
+    "s56_privacy": "8/8",
+    "s57_commercial": "6/11",
+    "s52_deliberative": "2/2",
+    "s49d_legal_privilege": "2/2"
+   }
+  },
+  {
+   "split": "dev",
+   "packs": [
+    "correspondence"
+   ],
+   "threshold": 0.3,
+   "sensitive_caught": 19,
+   "sensitive_total": 19,
+   "false_alarms": 19,
+   "clean_total": 21,
+   "recall": 1.0,
+   "flags_per_email": 4.05,
+   "category_hits": {
+    "s56_privacy": "8/8",
+    "s57_commercial": "6/11",
+    "s52_deliberative": "2/2",
+    "s49d_legal_privilege": "2/2"
+   }
+  },
+  {
+   "split": "dev",
+   "packs": [
+    "correspondence"
+   ],
+   "threshold": 0.5,
+   "sensitive_caught": 18,
+   "sensitive_total": 19,
+   "false_alarms": 10,
+   "clean_total": 21,
+   "recall": 0.947,
+   "flags_per_email": 1.7,
+   "category_hits": {
+    "s56_privacy": "7/8",
+    "s57_commercial": "6/11",
+    "s52_deliberative": "2/2",
+    "s49d_legal_privilege": "2/2"
+   }
+  },
+  {
+   "split": "dev",
+   "packs": [
+    "correspondence"
+   ],
+   "threshold": 0.7,
+   "sensitive_caught": 9,
+   "sensitive_total": 19,
+   "false_alarms": 4,
+   "clean_total": 21,
+   "recall": 0.474,
+   "flags_per_email": 0.42,
+   "category_hits": {
+    "s56_privacy": "4/8",
+    "s57_commercial": "1/11",
+    "s52_deliberative": "0/2",
+    "s49d_legal_privilege": "0/2"
+   }
+  },
+  {
+   "split": "heldout",
+   "packs": [],
+   "threshold": 0.2,
+   "sensitive_caught": 21,
+   "sensitive_total": 22,
+   "false_alarms": 17,
+   "clean_total": 18,
+   "recall": 0.955,
+   "flags_per_email": 5.05,
+   "category_hits": {
+    "s56_privacy": "9/9",
+    "s57_commercial": "4/11",
+    "s49d_legal_privilege": "0/1",
+    "s52_deliberative": "2/3"
+   }
+  },
+  {
+   "split": "heldout",
+   "packs": [],
+   "threshold": 0.3,
+   "sensitive_caught": 21,
+   "sensitive_total": 22,
+   "false_alarms": 13,
+   "clean_total": 18,
+   "recall": 0.955,
+   "flags_per_email": 4.1,
+   "category_hits": {
+    "s56_privacy": "9/9",
+    "s57_commercial": "3/11",
+    "s49d_legal_privilege": "0/1",
+    "s52_deliberative": "1/3"
+   }
+  },
+  {
+   "split": "heldout",
+   "packs": [],
+   "threshold": 0.5,
+   "sensitive_caught": 9,
+   "sensitive_total": 22,
+   "false_alarms": 7,
+   "clean_total": 18,
+   "recall": 0.409,
+   "flags_per_email": 0.68,
+   "category_hits": {
+    "s56_privacy": "2/9",
+    "s57_commercial": "2/11",
+    "s49d_legal_privilege": "0/1",
+    "s52_deliberative": "0/3"
+   }
+  },
+  {
+   "split": "heldout",
+   "packs": [],
+   "threshold": 0.7,
+   "sensitive_caught": 3,
+   "sensitive_total": 22,
+   "false_alarms": 2,
+   "clean_total": 18,
+   "recall": 0.136,
+   "flags_per_email": 0.15,
+   "category_hits": {
+    "s56_privacy": "0/9",
+    "s57_commercial": "0/11",
+    "s49d_legal_privilege": "0/1",
+    "s52_deliberative": "0/3"
+   }
+  },
+  {
+   "split": "heldout",
+   "packs": [
+    "correspondence"
+   ],
+   "threshold": 0.2,
+   "sensitive_caught": 21,
+   "sensitive_total": 22,
+   "false_alarms": 18,
+   "clean_total": 18,
+   "recall": 0.955,
+   "flags_per_email": 5.38,
+   "category_hits": {
+    "s56_privacy": "9/9",
+    "s57_commercial": "5/11",
+    "s49d_legal_privilege": "1/1",
+    "s52_deliberative": "2/3"
+   }
+  },
+  {
+   "split": "heldout",
+   "packs": [
+    "correspondence"
+   ],
+   "threshold": 0.3,
+   "sensitive_caught": 21,
+   "sensitive_total": 22,
+   "false_alarms": 15,
+   "clean_total": 18,
+   "recall": 0.955,
+   "flags_per_email": 4.47,
+   "category_hits": {
+    "s56_privacy": "9/9",
+    "s57_commercial": "5/11",
+    "s49d_legal_privilege": "1/1",
+    "s52_deliberative": "1/3"
+   }
+  },
+  {
+   "split": "heldout",
+   "packs": [
+    "correspondence"
+   ],
+   "threshold": 0.5,
+   "sensitive_caught": 14,
+   "sensitive_total": 22,
+   "false_alarms": 11,
+   "clean_total": 18,
+   "recall": 0.636,
+   "flags_per_email": 1.4,
+   "category_hits": {
+    "s56_privacy": "5/9",
+    "s57_commercial": "4/11",
+    "s49d_legal_privilege": "1/1",
+    "s52_deliberative": "0/3"
+   }
+  },
+  {
+   "split": "heldout",
+   "packs": [
+    "correspondence"
+   ],
+   "threshold": 0.7,
+   "sensitive_caught": 6,
+   "sensitive_total": 22,
+   "false_alarms": 4,
+   "clean_total": 18,
+   "recall": 0.273,
+   "flags_per_email": 0.35,
+   "category_hits": {
+    "s56_privacy": "2/9",
+    "s57_commercial": "1/11",
+    "s49d_legal_privilege": "0/1",
+    "s52_deliberative": "0/3"
+   }
+  }
+ ],
+ "detector_compare": {
+  "mode": "rules + classifier + names + word vectors",
+  "email_mode": "rules + classifier + names",
+  "before": {
+   "test": {
+    "caught": 26,
+    "sensitive_sentences": 73,
+    "false_flags": 22,
+    "flags_routed": 48,
+    "record_recall": 0.39344262295081966,
+    "per_category_recall": {
+     "Cabinet or Executive Council material": 1.0,
+     "Security or law enforcement": 0.273,
+     "Legal advice (privilege)": 0.091,
+     "Deliberative material": 0.333,
+     "Aboriginal sacred or restricted information": 0.0,
+     "Health information about a person": 0.4,
+     "Personal information": 0.5,
+     "Commercial or business information": 0.273
+    }
+   },
+   "dev": {
+    "caught": 184,
+    "sensitive_sentences": 184,
+    "false_flags": 51,
+    "flags_routed": 239,
+    "record_recall": 1.0,
+    "per_category_recall": {
+     "Cabinet or Executive Council material": 1.0,
+     "Security or law enforcement": 1.0,
+     "Legal advice (privilege)": 1.0,
+     "Deliberative material": 1.0,
+     "Aboriginal sacred or restricted information": 1.0,
+     "Health information about a person": 1.0,
+     "Personal information": 1.0,
+     "Commercial or business information": 1.0
+    }
+   },
+   "real_email": [
+    {
+     "split": "heldout",
+     "packs": [],
+     "threshold": 0.5,
+     "sensitive_caught": 5,
+     "sensitive_total": 22,
+     "false_alarms": 2,
+     "clean_total": 18,
+     "recall": 0.227,
+     "flags_per_email": 0.2,
+     "category_hits": {
+      "s56_privacy": "0/9",
+      "s57_commercial": "2/11",
+      "s49d_legal_privilege": "0/1",
+      "s52_deliberative": "0/3"
+     }
+    },
+    {
+     "split": "heldout",
+     "packs": [
+      "correspondence"
+     ],
+     "threshold": 0.5,
+     "sensitive_caught": 13,
+     "sensitive_total": 22,
+     "false_alarms": 8,
+     "clean_total": 18,
+     "recall": 0.591,
+     "flags_per_email": 1.0,
+     "category_hits": {
+      "s56_privacy": "5/9",
+      "s57_commercial": "4/11",
+      "s49d_legal_privilege": "1/1",
+      "s52_deliberative": "0/3"
+     }
+    }
+   ]
+  },
+  "after": {
+   "test": {
+    "caught": 63,
+    "sensitive_sentences": 73,
+    "false_flags": 20,
+    "flags_routed": 95,
+    "record_recall": 0.9016393442622951,
+    "per_category_recall": {
+     "Cabinet or Executive Council material": 1.0,
+     "Security or law enforcement": 0.727,
+     "Legal advice (privilege)": 0.545,
+     "Deliberative material": 1.0,
+     "Aboriginal sacred or restricted information": 1.0,
+     "Health information about a person": 0.8,
+     "Personal information": 1.0,
+     "Commercial or business information": 1.0
+    }
+   },
+   "dev": {
+    "caught": 184,
+    "sensitive_sentences": 184,
+    "false_flags": 54,
+    "flags_routed": 242,
+    "record_recall": 1.0,
+    "per_category_recall": {
+     "Cabinet or Executive Council material": 1.0,
+     "Security or law enforcement": 1.0,
+     "Legal advice (privilege)": 1.0,
+     "Deliberative material": 1.0,
+     "Aboriginal sacred or restricted information": 1.0,
+     "Health information about a person": 1.0,
+     "Personal information": 1.0,
+     "Commercial or business information": 1.0
+    }
+   },
+   "real_email": [
+    {
+     "split": "heldout",
+     "packs": [],
+     "threshold": 0.5,
+     "sensitive_caught": 9,
+     "sensitive_total": 22,
+     "false_alarms": 7,
+     "clean_total": 18,
+     "recall": 0.409,
+     "flags_per_email": 0.68,
+     "category_hits": {
+      "s56_privacy": "2/9",
+      "s57_commercial": "2/11",
+      "s49d_legal_privilege": "0/1",
+      "s52_deliberative": "0/3"
+     }
+    },
+    {
+     "split": "heldout",
+     "packs": [
+      "correspondence"
+     ],
+     "threshold": 0.5,
+     "sensitive_caught": 14,
+     "sensitive_total": 22,
+     "false_alarms": 11,
+     "clean_total": 18,
+     "recall": 0.636,
+     "flags_per_email": 1.4,
+     "category_hits": {
+      "s56_privacy": "5/9",
+      "s57_commercial": "4/11",
+      "s49d_legal_privilege": "1/1",
+      "s52_deliberative": "0/3"
+     }
+    }
+   ]
+  },
+  "cv": {
+   "folds": 4,
+   "best": "+ names 0.4 + vectors x8",
+   "miss_cost": 20,
+   "unmatched_spans": 0,
+   "variants": {
+    "classifier (current)": {
+     "pos": 47,
+     "hit": 8,
+     "neg": 1940,
+     "fp": 0,
+     "recall": 0.17,
+     "false_flag_rate": 0.0,
+     "expected_cost": 788
+    },
+    "+ word vectors x1": {
+     "pos": 47,
+     "hit": 8,
+     "neg": 1940,
+     "fp": 0,
+     "recall": 0.17,
+     "false_flag_rate": 0.0,
+     "expected_cost": 788
+    },
+    "+ word vectors x4": {
+     "pos": 47,
+     "hit": 24,
+     "neg": 1940,
+     "fp": 1,
+     "recall": 0.511,
+     "false_flag_rate": 0.001,
+     "expected_cost": 485
+    },
+    "+ word vectors x8": {
+     "pos": 47,
+     "hit": 26,
+     "neg": 1940,
+     "fp": 1,
+     "recall": 0.553,
+     "false_flag_rate": 0.001,
+     "expected_cost": 447
+    },
+    "+ names 0.3": {
+     "pos": 47,
+     "hit": 8,
+     "neg": 1940,
+     "fp": 0,
+     "recall": 0.17,
+     "false_flag_rate": 0.0,
+     "expected_cost": 788
+    },
+    "+ names 0.3 + vectors x4": {
+     "pos": 47,
+     "hit": 28,
+     "neg": 1940,
+     "fp": 1,
+     "recall": 0.596,
+     "false_flag_rate": 0.001,
+     "expected_cost": 409
+    },
+    "+ names 0.3 + vectors x8": {
+     "pos": 47,
+     "hit": 27,
+     "neg": 1940,
+     "fp": 1,
+     "recall": 0.574,
+     "false_flag_rate": 0.001,
+     "expected_cost": 428
+    },
+    "+ names 0.4": {
+     "pos": 47,
+     "hit": 10,
+     "neg": 1940,
+     "fp": 0,
+     "recall": 0.213,
+     "false_flag_rate": 0.0,
+     "expected_cost": 750
+    },
+    "+ names 0.4 + vectors x4": {
+     "pos": 47,
+     "hit": 28,
+     "neg": 1940,
+     "fp": 1,
+     "recall": 0.596,
+     "false_flag_rate": 0.001,
+     "expected_cost": 409
+    },
+    "+ names 0.4 + vectors x8": {
+     "pos": 47,
+     "hit": 29,
+     "neg": 1940,
+     "fp": 1,
+     "recall": 0.617,
+     "false_flag_rate": 0.001,
+     "expected_cost": 390
+    },
+    "+ names 0.5": {
+     "pos": 47,
+     "hit": 18,
+     "neg": 1940,
+     "fp": 95,
+     "recall": 0.383,
+     "false_flag_rate": 0.049,
+     "expected_cost": 693
+    },
+    "+ names 0.5 + vectors x4": {
+     "pos": 47,
+     "hit": 30,
+     "neg": 1940,
+     "fp": 96,
+     "recall": 0.638,
+     "false_flag_rate": 0.049,
+     "expected_cost": 466
+    },
+    "+ names 0.5 + vectors x8": {
+     "pos": 47,
+     "hit": 31,
+     "neg": 1940,
+     "fp": 96,
+     "recall": 0.66,
+     "false_flag_rate": 0.049,
+     "expected_cost": 447
+    }
+   }
+  }
+ }
+}
